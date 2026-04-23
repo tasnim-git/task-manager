@@ -17,7 +17,6 @@ A simple and clean task management system built using Laravel.
 
 ## Installation
 
-## bash
 git clone https://github.com/tasnim-git/task-manager.git
 cd task-manager
 composer install
